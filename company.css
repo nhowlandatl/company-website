@@ -1,0 +1,31 @@
+.containerC{
+    background-color: rgb(164, 187, 187);
+    margin: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+
+.containerC2{
+        margin: 3px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 3px;
+    padding-right: 3px;
+
+}
+#alignment {
+align-content: center;
+}
+
+.gfg { 
+    width:auto; 
+    text-align:center; 
+    padding:20px; 
+} 
+img { 
+    max-width:100%; 
+            height:auto; 
+} 
