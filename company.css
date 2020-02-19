@@ -29,3 +29,15 @@ img {
     max-width:100%; 
             height:auto; 
 } 
+h1 {
+    color: white;
+    margin-bottom: 12px;
+}
+
+.list-group-item {
+    background-color: #575050;
+}
+
+h2 {
+    color: white;
+}
